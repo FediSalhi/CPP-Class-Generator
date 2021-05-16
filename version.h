@@ -24,11 +24,9 @@
 /* --------------------------------------------------- v0.0.1.0 --------------------------------------------------- */
 
 /* Author   :    Fedi Salhi <fadi.salhi@outlook.fr>
- * Date     :    07/05/2021
- * Toolchain:    CMake: Clion Bundled 3.19.2
- *               Make : GNU Make 4.1
- *               GCC  : GNU GCC 7.5.0
- *               GDB  : Clion Bundled 10.1
+ * Date     :    16/05/2021
+ * Toolchain:    Qt Creator 4.5.2
+ * 		 Based on Qt 5.9.5 (GCC 7.3.0, 64 bit)
  *
  *
  *
