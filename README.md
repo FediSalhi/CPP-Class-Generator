@@ -1,6 +1,6 @@
 # C++ Class Generator
 
-This tool generates a basic C++ class definition.
+This tool generates a basic C++ class definition. This is a one-day C++ project built for learning purposes
 
 <p align="center">
 <img align="center" src="https://user-images.githubusercontent.com/45536639/118398532-bb932e00-b661-11eb-880f-e6255e10996b.png"> 
